@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1505522935">
+  <project timestamp="1505522935">
+    <package name="VirtualStyle\PhpLibraryBoileplate">
+      <file name="/home/flatulentdog/Desktop/GEN-TEST-TRASH/php-library-boileplate/src/VirtualStyle/PhpLibraryBoileplate/PhpLibraryBoileplate.php">
+        <class name="PhpLibraryBoileplate" namespace="VirtualStyle\PhpLibraryBoileplate">
+          <metrics complexity="2" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="5" coveredelements="5"/>
+        </class>
+        <line num="38" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="40" type="stmt" count="1"/>
+        <line num="41" type="stmt" count="1"/>
+        <line num="54" type="method" name="sayHello" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="56" type="stmt" count="1"/>
+        <metrics loc="58" ncloc="17" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="5" coveredelements="5"/>
+      </file>
+    </package>
+    <file name="/home/flatulentdog/Desktop/GEN-TEST-TRASH/php-library-boileplate/src/VirtualStyle/PhpLibraryBoileplate/PhpLibraryBoileplateInterface.php">
+      <metrics loc="34" ncloc="7" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
+    <metrics files="2" loc="92" ncloc="24" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="5" coveredelements="5"/>
+  </project>
+</coverage>

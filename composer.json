@@ -1,0 +1,43 @@
+{
+    "name": "@virtualstyle/php-library-boileplate",
+    "description": "This is a VirtualStyle PHP library.",
+    "type": "library",
+    "authors": [{
+        "name": "Rob Wood",
+        "email": "rob@virtualstyle.us",
+        "homepage": "https://virtualstyle.us/",
+        "role": "Developer"
+    }],
+    "homepage": "https://virtualstyle.us/",
+    "license": "WTFPL",
+    "require": {
+        "php": ">=7.1"
+    },
+    "require-dev": {
+        "phpdocumentor/phpdocumentor": "2.9",
+        "friendsofphp/php-cs-fixer": "2.0",
+        "phpunit/PHPUnit": "5.7",
+        "overtrue/phplint": "0.2.4",
+        "php-coveralls/php-coveralls": "1.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "VirtualStyle\\PhpLibraryBoileplate": "src/"
+        }
+    },
+    "scripts": {
+        "code": [
+            "phplint",
+            "php-cs-fixer fix src",
+            "php-cs-fixer fix test"
+        ],
+        "docs": [
+            "rm -rf docs",
+            "phpdoc"
+        ],
+        "test": [
+            "phpunit -c test/phpunit.xml",
+            "find ./docs/coverage/*.html -type f -readable -writable -exec sed -i \"s:/home/flatulentdog/Desktop/GEN-TEST-TRASH/php-library-boileplate:/PhpLibraryBoileplate:g\" {} \\;"
+        ]
+    }
+}
