@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <phpdoc>
-    <title>@virtualstyle/php-library-boileplate</title>
+    <title>@virtualstyle/php-library-boilerplate</title>
     <parser>
-        <default-package-name>@virtualstyle/php-library-boileplate</default-package-name>
+        <default-package-name>@virtualstyle/php-library-boilerplate</default-package-name>
         <target>docs</target>
     </parser>
     <transformer>

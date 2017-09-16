@@ -5,3 +5,4 @@ vendor
 .yarnrc
 .php_cs.cache
 .phplint.cache
+.phplint-cache

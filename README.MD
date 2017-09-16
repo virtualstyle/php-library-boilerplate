@@ -1,13 +1,13 @@
-## @virtualstyle/php-library-boileplate
+## @virtualstyle/php-library-boilerplate
 
 #### Project Status & Docs:
 
-[![Build Status](https://travis-ci.org/virtualstyle/php-library-boileplate.svg?branch=master)](https://travis-ci.org/virtualstyle/php-library-boileplate)
-[![Coverage Status](https://coveralls.io/repos/github/virtualstyle/php-library-boileplate/badge.svg?branch=master)](https://coveralls.io/github/virtualstyle/php-library-boileplate?branch=master)
+[![Build Status](https://travis-ci.org/virtualstyle/php-library-boilerplate.svg?branch=master)](https://travis-ci.org/virtualstyle/php-library-boilerplate)
+[![Coverage Status](https://coveralls.io/repos/github/virtualstyle/php-library-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/virtualstyle/php-library-boilerplate?branch=master)
 |
-[Coverage Reports](https://virtualstyle.github.io/php-library-boileplate/coverage)
+[Coverage Reports](https://virtualstyle.github.io/php-library-boilerplate/coverage)
 |
-[Docs](https://virtualstyle.github.io/php-library-boileplate/)
+[Docs](https://virtualstyle.github.io/php-library-boilerplate/)
 ___
 #### Project Info:
 

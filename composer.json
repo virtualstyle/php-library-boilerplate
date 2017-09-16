@@ -1,5 +1,5 @@
 {
-    "name": "@virtualstyle/php-library-boileplate",
+    "name": "@virtualstyle/php-library-boilerplate",
     "description": "This is a VirtualStyle PHP library.",
     "type": "library",
     "authors": [{
@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-0": {
-            "VirtualStyle\\PhpLibraryBoileplate": "src/"
+            "VirtualStyle\\PhpLibraryBoilerplate": "src/"
         }
     },
     "scripts": {
@@ -37,7 +37,7 @@
         ],
         "test": [
             "phpunit -c test/phpunit.xml",
-            "find ./docs/coverage/*.html -type f -readable -writable -exec sed -i \"s:/home/flatulentdog/Desktop/GEN-TEST-TRASH/php-library-boileplate:/PhpLibraryBoileplate:g\" {} \\;"
+            "find ./docs/coverage/*.html -type f -readable -writable -exec sed -i \"s:/home/flatulentdog/Desktop/GEN-TEST-TRASH/php-library-boilerplate:/PhpLibraryBoilerplate:g\" {} \\;"
         ]
     }
 }
