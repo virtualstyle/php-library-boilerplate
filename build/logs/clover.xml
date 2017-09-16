@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1505523579">
-  <project timestamp="1505523579">
+<coverage generated="1505525276">
+  <project timestamp="1505525276">
     <package name="VirtualStyle\PhpLibraryBoilerplate">
       <file name="/home/flatulentdog/Desktop/GEN-TEST-TRASH/php-library-boilerplate/src/VirtualStyle/PhpLibraryBoilerplate/PhpLibraryBoilerplate.php">
         <class name="PhpLibraryBoilerplate" namespace="VirtualStyle\PhpLibraryBoilerplate">
