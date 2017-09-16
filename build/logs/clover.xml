@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1505525276">
-  <project timestamp="1505525276">
+<coverage generated="1505525388">
+  <project timestamp="1505525388">
+    <package name="VirtualStyle\PhpLibraryBoileplate">
+      <file name="/home/flatulentdog/Desktop/GEN-TEST-TRASH/php-library-boilerplate/src/VirtualStyle/PhpLibraryBoileplate/PhpLibraryBoileplate.php">
+        <class name="PhpLibraryBoileplate" namespace="VirtualStyle\PhpLibraryBoileplate">
+          <metrics complexity="2" methods="2" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="0" elements="8" coveredelements="0"/>
+        </class>
+        <line num="38" type="method" name="__construct" visibility="public" complexity="1" crap="2" count="0"/>
+        <line num="39" type="stmt" count="0"/>
+        <line num="40" type="stmt" count="0"/>
+        <line num="41" type="stmt" count="0"/>
+        <line num="54" type="method" name="sayHello" visibility="public" complexity="1" crap="2" count="0"/>
+        <line num="55" type="stmt" count="0"/>
+        <line num="56" type="stmt" count="0"/>
+        <line num="57" type="stmt" count="0"/>
+        <metrics loc="58" ncloc="17" classes="1" methods="2" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="0" elements="8" coveredelements="0"/>
+      </file>
+    </package>
+    <file name="/home/flatulentdog/Desktop/GEN-TEST-TRASH/php-library-boilerplate/src/VirtualStyle/PhpLibraryBoileplate/PhpLibraryBoileplateInterface.php">
+      <metrics loc="34" ncloc="7" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
     <package name="VirtualStyle\PhpLibraryBoilerplate">
       <file name="/home/flatulentdog/Desktop/GEN-TEST-TRASH/php-library-boilerplate/src/VirtualStyle/PhpLibraryBoilerplate/PhpLibraryBoilerplate.php">
         <class name="PhpLibraryBoilerplate" namespace="VirtualStyle\PhpLibraryBoilerplate">
@@ -17,6 +36,6 @@
     <file name="/home/flatulentdog/Desktop/GEN-TEST-TRASH/php-library-boilerplate/src/VirtualStyle/PhpLibraryBoilerplate/PhpLibraryBoilerplateInterface.php">
       <metrics loc="34" ncloc="7" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
-    <metrics files="2" loc="92" ncloc="24" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="5" coveredelements="5"/>
+    <metrics files="4" loc="184" ncloc="48" classes="2" methods="4" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="9" coveredstatements="3" elements="13" coveredelements="5"/>
   </project>
 </coverage>
